@@ -1,0 +1,103 @@
+
+[
+  {
+    "id": 1,
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "description": "La historia de la familia Buendía a lo largo de varias generaciones en el pueblo ficticio de Macondo.",
+    "coverImage": "https://covers.openlibrary.org/b/id/7885436-L.jpg",
+    "genre": "Realismo mágico",
+    "publishedYear": 1967,
+    "isbn": "9780307474728"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "Una novela distópica que presenta una sociedad controlada por un régimen totalitario.",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+    "genre": "Ciencia ficción",
+    "publishedYear": 1949,
+    "isbn": "9780451524935"
+  },
+  {
+    "id": 3,
+    "title": "El principito",
+    "author": "Antoine de Saint-Exupéry",
+    "description": "Un pequeño príncipe viaja por diferentes planetas y descubre importantes lecciones sobre la vida y la amistad.",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780156012195-L.jpg",
+    "genre": "Fábula",
+    "publishedYear": 1943,
+    "isbn": "9780156012195"
+  },
+  {
+    "id": 4,
+    "title": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes",
+    "description": "Las aventuras de Alonso Quijano, un hombre que decide convertirse en caballero andante.",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9788420412146-L.jpg",
+    "genre": "Novela clásica",
+    "publishedYear": 1605,
+    "isbn": "9788420412146"
+  },
+  {
+    "id": 5,
+    "title": "Orgullo y prejuicio",
+    "author": "Jane Austen",
+    "description": "Una novela sobre el amor, las diferencias sociales y los prejuicios en la Inglaterra del siglo XIX.",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780141439518-L.jpg",
+    "genre": "Romance",
+    "publishedYear": 1813,
+    "isbn": "9780141439518"
+  },
+  {
+    "id": 6,
+    "title": "Crónica de una muerte anunciada",
+    "author": "Gabriel García Márquez",
+    "description": "La reconstrucción de un asesinato que todo un pueblo sabía que iba a ocurrir.",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781400034710-L.jpg",
+    "genre": "Misterio",
+    "publishedYear": 1981,
+    "isbn": "9781400034710"
+  },
+  {
+    "id": 7,
+    "title": "La sombra del viento",
+    "author": "Carlos Ruiz Zafón",
+    "description": "Un joven descubre un libro misterioso que cambiará su vida en la Barcelona de la posguerra.",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780143034902-L.jpg",
+    "genre": "Misterio",
+    "publishedYear": 2001,
+    "isbn": "9780143034902"
+  },
+  {
+    "id": 8,
+    "title": "Los juegos del hambre",
+    "author": "Suzanne Collins",
+    "description": "Katniss Everdeen participa en un peligroso concurso televisado donde debe luchar por sobrevivir.",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780439023481-L.jpg",
+    "genre": "Distopía",
+    "publishedYear": 2008,
+    "isbn": "9780439023481"
+  },
+  {
+    "id": 9,
+    "title": "El código Da Vinci",
+    "author": "Dan Brown",
+    "description": "Un profesor de simbología investiga un asesinato relacionado con antiguos secretos religiosos.",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780307474278-L.jpg",
+    "genre": "Thriller",
+    "publishedYear": 2003,
+    "isbn": "9780307474278"
+  },
+  {
+    "id": 10,
+    "title": "Harry Potter y la piedra filosofal",
+    "author": "J.K. Rowling",
+    "description": "Harry descubre que es un mago y comienza sus estudios en el colegio Hogwarts.",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780590353427-L.jpg",
+    "genre": "Fantasía",
+    "publishedYear": 1997,
+    "isbn": "9780590353427"
+  } 
+]
