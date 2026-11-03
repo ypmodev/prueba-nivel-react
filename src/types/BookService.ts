@@ -11,4 +11,5 @@ export interface BookService {
 
 export interface BookCardProps {
   bookProps: BookService;
+  onClick(id: number): void;
 }
