@@ -1,5 +1,5 @@
 
-# 📚 Nombre del proyecto
+# 📚 Libreria
 
 Aplicación web desarrollada con React y TypeScript que permite visualizar un catálogo de libros y consultar la información detallada de cada uno mediante navegación entre páginas.
 
