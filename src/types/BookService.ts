@@ -6,5 +6,9 @@ export interface BookService {
   coverImage: string;
   genre: string;
   publishedYear: number;
-  isbn: string; 
+  isbn: string;
+}
+
+export interface BookCardProps {
+  bookProps: BookService;
 }

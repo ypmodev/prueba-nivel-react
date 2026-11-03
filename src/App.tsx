@@ -1,7 +1,8 @@
+import BookList from "./components/BookList"
 
 const App = () => {
   return (
-    <div>App</div>
+    <div><BookList/></div>
   )
 }
 
